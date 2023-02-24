@@ -1,0 +1,34 @@
+body {
+  background-color: #1f1f23;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.chat-message {
+  margin-bottom: 10px;
+}
+
+.user-nickname {
+  font-weight: bold;
+}
+
+.user-nickname.red {
+  color: #FF0000;
+}
+
+.user-nickname.green {
+  color: #00FF00;
+}
+
+.user-nickname.blue {
+  color: #0000FF;
+}
+
+.comment {
+  color: #fff;
+}
